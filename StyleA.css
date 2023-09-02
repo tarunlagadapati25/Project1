@@ -5,13 +5,18 @@
     text-decoration: NONE;
     display: inline-block;
     font-size: 40px;
-    border-width: 100px;
-    border-bottom: aqua;
-    border-left: aliceblue;
-    border-right: bisque;
     border-top-width: 1px;
+    border-bottom: none;
+    border-right: none;
+    border-left: none;
+    border-color: #687291;
+    background-size: 100px;
 }
-div{
-    border-top-width: thick;
+
+.button1{
+    padding: 15px 32px;
+    font-size:40px;
+    background-color: #687291;
+    border-width: 4px;
 }
 
