@@ -1,4 +1,4 @@
-.button {
+.button,.button2 {
     color: #1e1f22;
     padding: 15px 32px;
     text-align: center;
@@ -10,7 +10,9 @@
     border-right: none;
     border-left: none;
     border-color: #687291;
-    background-size: 100px;
+    height: 100px;
+    width: 100px;
+    margin-bottom: 10px;
 }
 
 .button1{
@@ -18,5 +20,11 @@
     font-size:40px;
     background-color: #687291;
     border-width: 4px;
+    height:100px;
+    width:100px;
+}
+
+div{
+    text-align: center;
 }
 
